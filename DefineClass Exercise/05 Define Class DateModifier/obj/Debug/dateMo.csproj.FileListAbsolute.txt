@@ -1,6 +1,0 @@
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\date modifier\bin\Debug\date modifier.exe.config
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\date modifier\bin\Debug\date modifier.exe
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\date modifier\bin\Debug\date modifier.pdb
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\date modifier\obj\Debug\dateMo.csprojResolveAssemblyReference.cache
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\date modifier\obj\Debug\date modifier.exe
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\date modifier\obj\Debug\date modifier.pdb

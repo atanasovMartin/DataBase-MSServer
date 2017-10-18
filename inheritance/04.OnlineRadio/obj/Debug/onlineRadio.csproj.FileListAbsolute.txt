@@ -1,6 +1,0 @@
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\onlineRadio\bin\Debug\onlineRadio.exe.config
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\onlineRadio\bin\Debug\onlineRadio.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\onlineRadio\bin\Debug\onlineRadio.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\onlineRadio\obj\Debug\onlineRadio.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\onlineRadio\obj\Debug\onlineRadio.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\onlineRadio\obj\Debug\onlineRadio.csprojResolveAssemblyReference.cache

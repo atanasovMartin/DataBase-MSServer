@@ -1,6 +1,0 @@
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\07 SpeedRacing\bin\Debug\07 SpeedRacing.exe.config
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\07 SpeedRacing\bin\Debug\07 SpeedRacing.exe
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\07 SpeedRacing\bin\Debug\07 SpeedRacing.pdb
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\07 SpeedRacing\obj\Debug\07 SpeedRacing.csprojResolveAssemblyReference.cache
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\07 SpeedRacing\obj\Debug\07 SpeedRacing.exe
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\07 SpeedRacing\obj\Debug\07 SpeedRacing.pdb

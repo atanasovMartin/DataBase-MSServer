@@ -1,6 +1,0 @@
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\02.Vehicle Extension\bin\Debug\02.Vehicle Extension.exe.config
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\02.Vehicle Extension\bin\Debug\02.Vehicle Extension.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\02.Vehicle Extension\bin\Debug\02.Vehicle Extension.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\02.Vehicle Extension\obj\Debug\02.Vehicle Extension.csprojResolveAssemblyReference.cache
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\02.Vehicle Extension\obj\Debug\02.Vehicle Extension.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\02.Vehicle Extension\obj\Debug\02.Vehicle Extension.pdb

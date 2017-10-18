@@ -1,6 +1,0 @@
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\RawData\bin\Debug\RawData.exe.config
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\RawData\bin\Debug\RawData.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\RawData\bin\Debug\RawData.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\RawData\obj\Debug\08.RawData.csprojResolveAssemblyReference.cache
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\RawData\obj\Debug\RawData.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\RawData\obj\Debug\RawData.pdb

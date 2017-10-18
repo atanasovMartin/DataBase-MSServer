@@ -1,6 +1,0 @@
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\BookShop\bin\Debug\BookShop.exe.config
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\BookShop\bin\Debug\BookShop.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\BookShop\bin\Debug\BookShop.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\BookShop\obj\Debug\BookShop.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\BookShop\obj\Debug\BookShop.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\BookShop\obj\Debug\02. BookShop.csprojResolveAssemblyReference.cache

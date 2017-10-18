@@ -1,6 +1,0 @@
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\09. rectangle\bin\Debug\_09.rectangle.exe.config
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\09. rectangle\bin\Debug\_09.rectangle.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\09. rectangle\bin\Debug\_09.rectangle.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\09. rectangle\obj\Debug\09. rectangle.csprojResolveAssemblyReference.cache
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\09. rectangle\obj\Debug\_09.rectangle.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\09. rectangle\obj\Debug\_09.rectangle.pdb

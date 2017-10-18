@@ -1,6 +1,0 @@
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\01 Vehicle\bin\Debug\01 Vehicle.exe.config
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\01 Vehicle\bin\Debug\01 Vehicle.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\01 Vehicle\bin\Debug\01 Vehicle.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\01 Vehicle\obj\Debug\01 Vehicle.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\01 Vehicle\obj\Debug\01 Vehicle.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\polimorphism\01 Vehicle\obj\Debug\01.Vehicle.csprojResolveAssemblyReference.cache

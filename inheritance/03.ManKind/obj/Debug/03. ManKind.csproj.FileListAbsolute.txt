@@ -1,5 +1,0 @@
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\ManKind\bin\Debug\ManKind.exe.config
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\ManKind\bin\Debug\ManKind.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\ManKind\bin\Debug\ManKind.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\ManKind\obj\Debug\ManKind.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\inheritance\ManKind\obj\Debug\ManKind.pdb

@@ -1,6 +1,0 @@
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\DefineClass Exercise\obj\Debug\01.csprojResolveAssemblyReference.cache
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\DefineClass Exercise\bin\Debug\DefineClass Exercise.exe.config
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\DefineClass Exercise\bin\Debug\DefineClass Exercise.exe
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\DefineClass Exercise\bin\Debug\DefineClass Exercise.pdb
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\DefineClass Exercise\obj\Debug\DefineClass Exercise.exe
-c:\users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\DefineClass Exercise\obj\Debug\DefineClass Exercise.pdb

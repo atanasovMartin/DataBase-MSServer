@@ -1,5 +1,0 @@
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\carSalseman\bin\Debug\carSalseman.exe.config
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\carSalseman\bin\Debug\carSalseman.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\carSalseman\bin\Debug\carSalseman.pdb
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\carSalseman\obj\Debug\carSalseman.exe
-C:\Users\jacky\documents\visual studio 2017\Projects\DefineClass Exercise\carSalseman\obj\Debug\carSalseman.pdb
